@@ -23,6 +23,7 @@ askQues(`What is ${myName}'s Favorate Game : `, "Gta5");
 askQues(`What is ${myName}'s Favorate Food : `, "SabjiRoti");
 askQues(`What is ${myName}'s Bike Color : `, "Blue");
 askQues(`What is ${myName}'s Currently Pursuing : `, "Bca");
+askQues(`What is ${myName} Liked The Most  : `, "Learning New Things");
 
 console.log(`Your Total Score : ${score}`);
 
